@@ -1,0 +1,5 @@
+- concate the datasets irrigation the apportNPK
+- create a column is train (true or false), and concate the train set and the testing set
+- check if the dataset is yearly or monthly (apport NPK and irrigation) and make the necessary changes
+- Merge the datasets
+- make prediction usng radomforest or xgboost
